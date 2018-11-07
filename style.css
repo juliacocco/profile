@@ -32,15 +32,15 @@ body {
 }
 
 .btn-purple {
-  background-color: #f9f9f9;
+  background-color: #7749a2;
   padding: 10px;
-  color: purple;
+  color: grey;
   text-decoration: none;
   border-radius: 3px;
 }
 
 .btn-purple:hover {
-  background-color: #646464;
+  background-color: #EDE2E1;
 }
 
 /*component-shape*/
