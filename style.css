@@ -30,6 +30,10 @@ body {
   width: 250px;
   border-radius: 50%
 }
+
+.btn-aqua:hover {
+  background-color: rgba(92, 132, 142, 0.5);
+
 /*component-shape*/
 /*btn-red*/
 .div-style{
