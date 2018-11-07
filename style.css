@@ -26,8 +26,8 @@ body {
 
 #profile {
   box-shadow: 4px 4px 4px #d8d4d4;
-  height: 260px;
-  width: 250px;
+  height: 258px;
+  width: 197px;
   border-radius: 50%
 }
 
@@ -90,6 +90,7 @@ a {
 a:hover{
   opacity: 0.8;
 }
+
 
 .description-center h3,p {
   font-style: bold;
