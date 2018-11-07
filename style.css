@@ -31,8 +31,17 @@ body {
   border-radius: 50%
 }
 
-.btn-aqua:hover {
-  background-color: rgba(92, 132, 142, 0.5);
+.btn-purple {
+  background-color: #f9f9f9;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.btn-purple:hover {
+  background-color: #646464;
+}
 
 /*component-shape*/
 /*btn-red*/
