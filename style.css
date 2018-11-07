@@ -32,12 +32,12 @@ body {
 }
 
 .btn-purple {
+  font-family: 'Lato', sans-serif;
   background-color: #D0BDE6;
   padding: 10px;
   color: red;
-  text-decoration: none;
   border-radius: 3px;
-}
+ }
 
 .btn-purple:hover {
   background-color: #EDE2E1;
